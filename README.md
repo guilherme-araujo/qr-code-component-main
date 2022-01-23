@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL: ](https://your-solution-url.com)
-- [Live Site URL: ](https://your-live-site-url.com)
+- [Solution URL](https://github.com/guilherme-araujo/qr-code-component-main)
+- [Live Site URL](https://guilherme-araujo.github.io/qr-code-component-main/)
 
 ## Built with
 
@@ -29,4 +29,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- [Guilherme Fernandes de Araújo](https://www.your-site.com)
+- [Guilherme Fernandes de Araújo](https://github.com/guilherme-araujo)
